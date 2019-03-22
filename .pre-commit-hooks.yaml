@@ -1,0 +1,7 @@
+-   id: pytype
+    name: pytype
+    entry: pytype
+    language: python
+    'types': [python]
+    args: []
+    additional_dependencies: []
